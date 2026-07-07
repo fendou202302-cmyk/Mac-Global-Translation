@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+
+# macOS build outputs
+macos/InputTranslatorMac/build/
+
+# Swift / Xcode local noise
+.build/
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+
+# Local secrets
+.env
+*.local
